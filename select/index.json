@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウォーターマーク",
+  "base_artist": "gaburyu",
+  "createdAt": "2026-02-14T04:35:48.946887Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウォーターマーク",
+      "artist": "gaburyu & IA",
+      "has_synced": false,
+      "path": "select/pl_01_ウォーターマーク_gaburyu_&_IA.txt"
+    }
+  ]
+}
